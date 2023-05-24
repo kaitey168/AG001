@@ -1,0 +1,122 @@
+.tablecount {
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.14);
+  border-radius: 8px;
+  margin-top: 20px !important;
+  background: #fff;
+  border-radius: 10px;
+  padding: 0 20px 20px 20px !important;
+}
+.tabletitle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px !important;
+}
+.tabletitle h1 {
+  margin-top: 20px !important;
+  white-space: nowrap;
+  padding-left: 20px;
+  border-left: 5px solid #2878ff;
+  font-size: 20px;
+  color: #000;
+  line-height: 35px;
+}
+.countimg img {
+  width: 100%;
+}
+
+.countlist h1 {
+  font-size: 25px;
+  color: #000;
+  line-height: 40px;
+}
+.countlist h1 span {
+  font-size: 13px;
+  margin-left: 20px;
+  color: #ff3c30;
+}
+.detailcount {
+  width: 100%;
+}
+.countlist .list {
+  display: flex;
+  align-items: center;
+}
+.countlist .list p {
+  font-size: 14px;
+  color: #666666;
+  line-height: 40px;
+  white-space: nowrap;
+}
+.countlist .list h2 {
+  font-size: 14px;
+  color: #222222;
+  line-height: 40px;
+}
+.js {
+  margin-top: 20px !important;
+}
+.jsleft {
+  font-size: 14px;
+  color: #666;
+  line-height: 30px;
+}
+.jsright {
+  font-size: 14px;
+  color: #222222;
+  line-height: 30px;
+}
+.tips {
+  margin: 10px 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.tips img {
+  width: 20px;
+  margin-right: 10px;
+}
+.tips p {
+  font-size: 14px;
+  color: #999999;
+  line-height: 20px;
+}
+.listitems {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eeeeee;
+}
+.listitems a {
+  flex: 1;
+  word-break: break-all;
+  font-size: 13px;
+}
+.listitems .btn {
+  display: flex;
+  flex-wrap: wrap;
+}
+.listitems .btn button {
+  min-height: 30px;
+  min-width: 70px;
+  word-break: break-all;
+  margin-left: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}
+.listitems .btn button img {
+  width: auto;
+  height: 15px;
+}
+.btn-warning {
+  color: #fff !important;
+}
+.copy {
+  font-size: 16px;
+  color: #ff3c30;
+  line-height: 32px;
+}
